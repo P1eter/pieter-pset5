@@ -1,1 +1,1 @@
-# pieter-pset5
+This app is part of pset5 of the course Native App Studio. This app is a revised version of pset3. It gives an interface for a restaurant in which you can add dishes to a database and place an order with all the dishes in the database.
