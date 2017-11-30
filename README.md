@@ -2,7 +2,9 @@ This app is part of pset5 of the course Native App Studio. This app is a revised
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/P1eter/pieter-pset5?branch=master)](https://bettercodehub.com/)
 
-![screenshot_1](https://github.com/P1eter/pieter-pset5/blob/master/doc/restorev1.png?raw=true =50x)
-![screenshot_2](https://github.com/P1eter/pieter-pset5/blob/master/doc/restorev2.png?raw=true =50x)
-![screenshot_3](https://github.com/P1eter/pieter-pset5/blob/master/doc/restorev3.png?raw=true =50x)
-![screenshot_4](https://github.com/P1eter/pieter-pset5/blob/master/doc/restorev4.png?raw=true =50x)
+
+<img src="https://github.com/P1eter/pieter-pset5/blob/master/doc/restorev1.png?raw=true" width="50">
+<img src="https://github.com/P1eter/pieter-pset5/blob/master/doc/restorev2.png?raw=true" width="50">
+<img src="https://github.com/P1eter/pieter-pset5/blob/master/doc/restorev3.png?raw=true" width="50">
+<img src="https://github.com/P1eter/pieter-pset5/blob/master/doc/restorev4.png?raw=true" width="50">
+
