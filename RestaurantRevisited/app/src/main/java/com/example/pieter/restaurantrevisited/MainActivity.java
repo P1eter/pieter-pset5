@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
         ft.commit();
     }
 
-
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.actions, menu);
